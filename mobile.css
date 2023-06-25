@@ -1,0 +1,8 @@
+#info-number {
+  width: 100%;
+}
+
+.group-age-city,
+.group-address {
+  flex-wrap: wrap;
+}

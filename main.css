@@ -1,0 +1,18 @@
+#info-complement,
+#info-age,
+#info-city {
+  flex: 1 1 auto;
+}
+
+#info-street {
+  flex: 3 1 auto;
+}
+
+#info-number {
+  width: 10%;
+}
+
+.group-address,
+.group-age-city {
+  display: flex;
+}
